@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" Version="3.3" Serie="gcd" Folio="jhdsjh" Fecha="chusd" FormaPago="01" NoCertificado="3000100000300023708" SubTotal="4741.38" Moneda="MXN" TipoCambio="1" Total="5500.00" TipoDeComprobante="hcuwheu" MetodoPago="PUE" LugarExpedicion="huchew" Sello="sellado" Certificado="AAA010101AAA.cer.pem">
+  <cfdi:Receptor Rfc="hdsbc545" Nombre="aaac" ResidenciaFiscal="16" NumRegIdTrib="11112525" UsoCFDI="G13"/>
+</cfdi:Comprobante>
